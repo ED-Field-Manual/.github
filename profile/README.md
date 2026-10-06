@@ -1,4 +1,4 @@
-# Elite Dangerous Projects
+# ED Field Manual
 
 Open-source projects for *Elite Dangerous*.
 
