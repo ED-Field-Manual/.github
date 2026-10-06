@@ -10,8 +10,8 @@ The community-maintained Elite Dangerous reference and field manual.
 
 Repositories:
 
-- [edfm](https://github.com/Elite-Dangerous-Projects/edfm) — EDFM source, configuration examples, interface assets, and project-specific code
-- [edfm-content](https://github.com/Elite-Dangerous-Projects/edfm-content) — current public wiki-content continuity archive
+- [edfm](https://github.com/ED-Field-Manual/edfm) — EDFM source, configuration examples, interface assets, and project-specific code
+- [edfm-content](https://github.com/ED-Field-Manual/edfm-content) — current public wiki-content continuity archive
 
 Website: [edfieldmanual.com](https://edfieldmanual.com/)
 
@@ -21,7 +21,7 @@ Desktop companion application and in-game overlay for Elite Dangerous.
 
 Repositories:
 
-- [edfmc](https://github.com/Elite-Dangerous-Projects/edfmc) — EDFM Companion application
+- [edfmc](https://github.com/ED-Field-Manual/edfmc) — EDFM Companion application
 
 ### Plugins
 
